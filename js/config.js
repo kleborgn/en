@@ -3,7 +3,7 @@
 /******************************************************************************************************************/
 
 /* Contain the typed strings. */
-var config_typedArray = ["Etudiant, passionné de cybersécurité."];
+var config_typedArray = ["Student, passionate about cybersecurity."];
 
 /* Disable Parallax effect on touch devices for performance reasons. */
 var config_disableParalaxOnTouchDevices = true;
